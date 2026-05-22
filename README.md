@@ -14,5 +14,10 @@ A modern and responsive school website developed for a real educational institut
 - CSS
 - JavaScript
 
+## Installation
+
+- npm install
+- npm run dev
+
 ## Live Demo
 https://johnsonpublic.netlify.app
