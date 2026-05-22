@@ -19,5 +19,21 @@ A modern and responsive school website developed for a real educational institut
 - npm install
 - npm run dev
 
+## Screenshots
+
+### Homepage
+![Homepage](./ScreenShots/Homepage.png)
+
+---
+
+### Navigation Bar
+![Navbar](./ScreenShots/Navbar.png)
+
+---
+
+### About Section
+![About Section](./ScreenShots/About-Section.png)
+
+
 ## Live Demo
 https://johnsonpublic.netlify.app
