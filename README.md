@@ -1,6 +1,6 @@
 # Johnson Co-Ed Public School Website
 
-Responsive school website designed for a real educational institution with admission CTA, gallery, faculty section, and academic branding.
+A modern and responsive school website developed for a real educational institution, focused on academic branding, admission engagement, faculty showcase, and parent-friendly navigation.
 
 ## Features
 - Responsive Design
