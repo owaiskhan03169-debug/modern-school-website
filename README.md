@@ -36,4 +36,4 @@ A modern and responsive school website developed for a real educational institut
 
 
 ## Live Demo
-https://johnsonpublic.netlify.app
+https://johnsonspublic.netlify.app/
